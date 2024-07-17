@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item >
+        <shape android:shape="oval">
+            <solid android:color="@color/orange_100"/>
+            <size android:width="105dp"
+                android:height="105dp"/>
+        </shape>
+    </item>
+    <item android:drawable="@drawable/photo_img" android:gravity="center"/>
+</layer-list>
